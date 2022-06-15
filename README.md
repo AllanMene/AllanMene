@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**AllanMene/AllanMene** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Meu nome é Allan
+- 🌱 Eu estudo no colégio Emílio
+- 👯 Sou torcedor do melhor time do mundo, o Palmeiras
+- 🤔 Não trabalho
+- 💬 Gosto de Santana
+- 📫 Gosto de Gol
+- 😄 Gosto da CBX Twister
+- ⚡ Quero um Husky
+
+
+
+# Allan Meneguetti
+## ddd
+### ddd
+#### ddd
+##### ddd
